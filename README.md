@@ -24,6 +24,9 @@
 ### · Video
 [Youtube](https://)
 
+### · Analisis y Obras
+[Analisis Inicial](https://docs.google.com/presentation/d/1onCK4E2-eXMoCSZjj0VY-_FCKuwXe9TtymbEHMWRGN8/edit?usp=sharing)
+
 ---
 
 # - Descripción de la familia
