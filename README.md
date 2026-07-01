@@ -31,11 +31,15 @@
 
 # - Interactividad
 
-L / Sonido Intenso -> Aumento de Velocidad de los caminantes 
-V / Sonido Suave -> Lentitud de Velocidad de los caminantes
-R / 2 Aplausos -> Reinicio del lienzo 
-O / Sonido Agudo Corto -> Spawn de una tanda nueva de caminates
-X / Sonido Grave Corto -> Modo Caos
+### L / Sonido Intenso -> Aumento de Velocidad de los caminantes 
+
+### V / Sonido Suave -> Lentitud de Velocidad de los caminantes
+
+### R / 2 Aplausos -> Reinicio del lienzo 
+
+### O / Sonido Agudo Corto -> Spawn de una tanda nueva de caminates
+
+### X / Sonido Grave Corto -> Modo Caos
 
 ---
 
