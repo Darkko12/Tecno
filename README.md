@@ -1,8 +1,3 @@
-# [Computación Gráfica Aplicada y Sistemas Generativos]
-
----
-
-# [Brice Marden / Cold Mountain Series, Zen Studies]
 
 ![image alt](https://github.com/Darkko12/123456/blob/3b4faaead8561126225339beb1e23544a3f54627/%5BBrice%20Marden%20%20Cold%20Mountain%20Series%2C%20Zen%20Studies%5D.png)
 
