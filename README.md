@@ -4,7 +4,7 @@
 
 # [Brice Marden / Cold Mountain Series, Zen Studies]
 
-![Portada](img/portada.png)
+![Portada]([img/portada.png](https://imgur.com/a/e89PrF4))
 
 ---
 
