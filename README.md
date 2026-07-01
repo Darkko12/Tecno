@@ -50,7 +50,3 @@ Fue un reto como tal pero lo disfrutamos mucho, creo que lo mas complicado fue p
 Escribir aquí cualquier aclaración importante.
 
 ---
-
-# 📄 Licencia
-
-Escribir aquí la licencia del proyecto si corresponde.
