@@ -22,16 +22,20 @@
 [Pages](https://darkko12.github.io/Tecno/)
 
 ### · Video
-[Youtube](https://)
+[Youtube](https://youtu.be/Q-LHIAc9WnQ)
 
 ### · Analisis y Obras
 [Analisis Inicial](https://docs.google.com/presentation/d/1onCK4E2-eXMoCSZjj0VY-_FCKuwXe9TtymbEHMWRGN8/edit?usp=sharing)
 
 ---
 
-# - Descripción de la familia
+# - Interactividad
 
-Una familia de 6 obras con un fondo gris claro, poseen un marco blanco medianamente grueso. Contiene unas líneas negras hechas con tinta, son lineas moduladas las cuales están superpuestas sobre ellas. Sus recorridos son una mezcla entre el recto y el curvo, lo cual le da esta sensación de “telaraña” que se va conectando entre sí. Se mantiene dentro de un marco, sin salirse. Utiliza una técnica de acumulación, habiendo más líneas en algunas obras que en otras
+L / Sonido Intenso -> Aumento de Velocidad de los caminantes 
+V / Sonido Suave -> Lentitud de Velocidad de los caminantes
+R / 2 Aplausos -> Reinicio del lienzo 
+O / Sonido Agudo Corto -> Spawn de una tanda nueva de caminates
+X / Sonido Grave Corto -> Modo Caos
 
 ---
 
