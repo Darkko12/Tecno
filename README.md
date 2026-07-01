@@ -35,7 +35,7 @@
 
 ### V / Sonido Suave -> Lentitud de Velocidad de los caminantes
 
-### R / 2 Aplausos -> Reinicio del lienzo 
+### R / Dos Aplausos -> Reinicio del lienzo 
 
 ### O / Sonido Agudo Corto -> Spawn de una tanda nueva de caminates
 
